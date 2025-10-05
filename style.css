@@ -1,6 +1,6 @@
 h1 {
     background-color: grey;
-    padding: 15px;
+    padding: 40;
     color: white;
     text-align: center;
      }
@@ -9,6 +9,6 @@ p {
 }
 
 footer {
-    vertical-align: bottom;
+    
     text-align: center;
 }
