@@ -8,6 +8,9 @@ section {
     background-color: grey;
     color: white;
 }
+aside{ 
+    float: right;
+}
 footer {
     text-align: center;
     background-color: grey;
