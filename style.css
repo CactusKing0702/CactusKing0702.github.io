@@ -3,7 +3,12 @@ h1 {
     color: white;
     text-align: center;
      }
-
+p { 
+    height: 100px;
+    width: 25%;
+    background-color: grey;
+    color: white;
+}
 footer {
     text-align: center;
     background-color: grey;
