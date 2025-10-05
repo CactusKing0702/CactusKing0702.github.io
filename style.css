@@ -1,4 +1,4 @@
-h1 {
+header {
     background-color: lightblue;
     color: yellow;
     text-align: center;
@@ -6,7 +6,7 @@ h1 {
 p { 
   color: blue
 }
-f{
+footer {
     vertical-align: bottom;
     text-align: center;
 }
