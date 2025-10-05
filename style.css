@@ -4,6 +4,7 @@ h1 {
     text-align: center;
      }
 section { 
+    float: left;
     width: 75%;
     background-color: grey;
     color: white;
