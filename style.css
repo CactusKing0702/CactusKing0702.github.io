@@ -3,6 +3,9 @@ h1 {
     color: yellow;
     text-align: center;
      }
+p { 
+    color: black;
+}
 }
 footer {
     vertical-align: bottom;
